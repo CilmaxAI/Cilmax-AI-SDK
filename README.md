@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://climaxai.fun/images/logo.png" alt="Cilmax AI SDK Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/CilmaxAI/Cilmax-AI-SDK/refs/heads/main/docs/logo.jpg" alt="Cilmax AI SDK Logo" width="200" />
 </p>
 
 <h1 align="center">Cilmax AI SDK: Revolutionizing Decentralized Finance on Solana 🌐</h1>
