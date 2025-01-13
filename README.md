@@ -96,4 +96,3 @@ Stay up to date and follow us on our social media platforms:
 - [GitHub](https://github.com/CilmaxAI)
 
 ---
-```
