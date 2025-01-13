@@ -89,10 +89,9 @@ This SDK is open-source and released under the [MIT License](./LICENSE).
 
 Stay up to date and follow us on our social media platforms:
 
-- [Twitter](https://twitter.com/CilmaxAI)
-- [LinkedIn](https://linkedin.com/company/cilmaxai)
+- [Twitter](https://x.com/CilmaxAi)
 - [Discord](https://discord.gg/cilmaxai)
-- [Telegram](https://t.me/cilmax_ai)
-- [GitHub](https://github.com/CilmaxAI)
+- [Telegram](https://t.me/CilmaxAi)
+- [Website](https://cilmaxai.fun/)
 
 ---
